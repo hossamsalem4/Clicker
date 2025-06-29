@@ -30,7 +30,7 @@ We highly recommend renaming the generated `.exe` file after compiling (for exam
 
 You can download the ready-made `.exe` file from the **Releases** section:  
 
-👉 [Download Stealth Clicker EXE](https://github.com/hossamsalem4/stealth-clicker/releases)
+👉 [Download Stealth Clicker EXE](https://github.com/hossamsalem4/Clicker/releases/tag/clicker_co)
 
 *(replace this link with your actual release link after you publish it)*
 
