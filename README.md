@@ -1,0 +1,2 @@
+# Clicker
+stealth-clicker
