@@ -1,4 +1,4 @@
-# Stealth Clicker for Conquer Online
+# Stealth Clicker for Conquer Dragon
 
 🖱️ An advanced stealth auto-clicker tool for Conquer Online and other online games.
 
@@ -26,27 +26,20 @@ We highly recommend renaming the generated `.exe` file after compiling (for exam
 
 ---
 
-## 📜 How to Use:
+## 📥 Download the latest release:
 
-1. Run the program.
-2. Check the keys you want to auto-press from the GUI.
-3. Press **F10** to start the auto-clicking.
-4. Press **F10** again to stop.
+You can download the ready-made `.exe` file from the **Releases** section:  
 
----
+👉 [Download Stealth Clicker EXE](https://github.com/hossamsalem4/stealth-clicker/releases)
 
-## 🚨 Usage Disclaimer:
-
-This tool is intended for educational and experimental purposes only.  
-The developer is not responsible for any misuse, policy violations, or bans resulting from its use in online services or games.
+*(replace this link with your actual release link after you publish it)*
 
 ---
 
-## 📌 Additional Notes:
+## 📦 Install Requirements (for source code use)
 
-- You can easily adjust the random delay range from the source code.
-- Recommended to use [PyInstaller](https://pyinstaller.org/) for packaging this tool into a standalone `.exe` file.
+If you want to run the script directly from the source code, you’ll need to install the required Python libraries:
 
----
-
-## ✨ Developed with ❤️ by [hossamsalem4](https://github.com/hossamsalem4)
+### Install Python packages:
+```bash
+pip install pyqt5 keyboard
